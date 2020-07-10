@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "835406227187",
+    "firebase_url": "https://upbuy-87861.firebaseio.com",
+    "project_id": "upbuy-87861",
+    "storage_bucket": "upbuy-87861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835406227187:android:8dbd628237f43dbd97b986",
+        "android_client_info": {
+          "package_name": "com.example.up_buy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835406227187-ib899li66vmk9no61np3rntog50v1t82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.up_buy",
+            "certificate_hash": "efe8450c6f77927e89201acca196689a6ae3c1f7"
+          }
+        },
+        {
+          "client_id": "835406227187-676d86mk9hv0s1tk2bobhpee3mqvs3k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdLGiVA0lDvjtAfZMztJ1iMWvbfqHXAco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835406227187-676d86mk9hv0s1tk2bobhpee3mqvs3k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
